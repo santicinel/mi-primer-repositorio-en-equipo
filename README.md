@@ -1,2 +1,5 @@
-# mi-primer-repositorio-en-equipo
+# Trabajo en equipo
+
 repositorio soporte
+
+Lucas Joffre
