@@ -1,5 +1,6 @@
-# Trabajo en equipo
+# Trabajo Colaborativo
 
 repositorio soporte
 
 Lucas Joffre
+Santiago Cinel
